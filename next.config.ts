@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  /*  host: '34.23.32.221',
+    user: 'root',
+    password: 'eattherich',
+    database: 'MyReadsDashboard',*/
 };
 
 export default nextConfig;
