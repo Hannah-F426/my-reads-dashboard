@@ -1,7 +1,7 @@
 ## What have I been reading lately?
 
 This application shows what I am currently reading, and has functionality to update the book, along with keep track of the pages I have read. 
-![alt text](https://github.com/Hannah-F426/my-reads-dashboard/blob/master/mainpg-ss.PNG "Main Page")
+![alt text](https://github.com/Hannah-F426/my-reads-dashboard/blob/master/mainpage-ss.PNG "Main Page")
 
 The application also has a dashboard page that shows some statistics of my reading data over the last few years. This dashboard pulls from a MySQL Database. 
 ![alt text](https://github.com/Hannah-F426/my-reads-dashboard/blob/master/dashpg-ss.PNG "Dashboard Page")
